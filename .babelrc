@@ -1,0 +1,5 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+    // babel/preset-env - handles transformation of ES6 into common js. 
+    // @babel-/preset-react - knows how to deal with JSX properly. 
+}
